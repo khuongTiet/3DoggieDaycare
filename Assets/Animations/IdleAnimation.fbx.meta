@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 43a0f7719d15c474b87d429d58836046
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backLeftLeg
+    100002: backLeftLegAnkle
+    100004: backLeftLegKnee
+    100006: backLeftLegToe
+    100008: backRightLeg
+    100010: backRightLegAnkle
+    100012: backRightLegKnee
+    100014: backRightLegToe
+    100016: Face
+    100018: FaceController
+    100020: frontBody
+    100022: frontLeftLeg
+    100024: frontLeftLeg2
+    100026: frontLeftLegAnkle
+    100028: frontLeftLegKnee
+    100030: frontLeftLegToe
+    100032: frontRightLeg
+    100034: frontRIghtLeg2
+    100036: frontRightLegAnkle
+    100038: frontRightLegKnee
+    100040: frontRightLegToe
+    100042: Head
+    100044: //RootNode
+    100046: LeftEar
+    100048: LeftEar1
+    100050: LeftEar2
+    100052: LeftEar3
+    100054: LeftEar4
+    100056: Nose
+    100058: RightEar
+    100060: RightEar1
+    100062: RightEar2
+    100064: RightEar3
+    100066: RightEar4
+    100068: Root
+    100070: Tail
+    100072: Tail2
+    100074: Tail3
+    100076: Tail4
+    100078: Tail5
+    100080: Tail6
+    100082: Tail7
+    100084: Tail8
+    100086: transform3
+    100088: transform4
+    100090: upperBody
+    100092: upperBody2
+    100094: upperBody3
+    100096: upperBodyRoot
+    100098: backLeftLegController
+    100100: backLeftLegIK
+    100102: backRightLegController
+    100104: backRightLegIK
+    100106: Dachshund
+    100108: frontLeftLegController
+    100110: frontLeftLegIK
+    100112: frontLeftLegIK 1
+    100114: frontRightLegController
+    100116: frontRightLegIK
+    100118: MainController
+    100120: pCube1
+    100122: polySurface2
+    100124: transform1
+    100126: transform2
+    400000: backLeftLeg
+    400002: backLeftLegAnkle
+    400004: backLeftLegKnee
+    400006: backLeftLegToe
+    400008: backRightLeg
+    400010: backRightLegAnkle
+    400012: backRightLegKnee
+    400014: backRightLegToe
+    400016: Face
+    400018: FaceController
+    400020: frontBody
+    400022: frontLeftLeg
+    400024: frontLeftLeg2
+    400026: frontLeftLegAnkle
+    400028: frontLeftLegKnee
+    400030: frontLeftLegToe
+    400032: frontRightLeg
+    400034: frontRIghtLeg2
+    400036: frontRightLegAnkle
+    400038: frontRightLegKnee
+    400040: frontRightLegToe
+    400042: Head
+    400044: //RootNode
+    400046: LeftEar
+    400048: LeftEar1
+    400050: LeftEar2
+    400052: LeftEar3
+    400054: LeftEar4
+    400056: Nose
+    400058: RightEar
+    400060: RightEar1
+    400062: RightEar2
+    400064: RightEar3
+    400066: RightEar4
+    400068: Root
+    400070: Tail
+    400072: Tail2
+    400074: Tail3
+    400076: Tail4
+    400078: Tail5
+    400080: Tail6
+    400082: Tail7
+    400084: Tail8
+    400086: transform3
+    400088: transform4
+    400090: upperBody
+    400092: upperBody2
+    400094: upperBody3
+    400096: upperBodyRoot
+    400098: backLeftLegController
+    400100: backLeftLegIK
+    400102: backRightLegController
+    400104: backRightLegIK
+    400106: Dachshund
+    400108: frontLeftLegController
+    400110: frontLeftLegIK
+    400112: frontLeftLegIK 1
+    400114: frontRightLegController
+    400116: frontRightLegIK
+    400118: MainController
+    400120: pCube1
+    400122: polySurface2
+    400124: transform1
+    400126: transform2
+    2100000: Dachshund1
+    4300000: Dachshund
+    7400000: IdleAnimation
+    9500000: //RootNode
+    13700000: Dachshund
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleAnimation
+      takeName: IdleAnimation
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.14999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

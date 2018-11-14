@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DachshundMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: backLeftLegController
+    m_Weight: 1
+  - m_Path: backLeftLegController/backLeftLegIK
+    m_Weight: 1
+  - m_Path: backRightLegController
+    m_Weight: 1
+  - m_Path: backRightLegController/backRightLegIK
+    m_Weight: 1
+  - m_Path: Dachshund
+    m_Weight: 1
+  - m_Path: Dachshund/pCube1
+    m_Weight: 1
+  - m_Path: Dachshund/pCube1/transform1
+    m_Weight: 1
+  - m_Path: Dachshund/polySurface2
+    m_Weight: 1
+  - m_Path: Dachshund/polySurface2/transform2
+    m_Weight: 1
+  - m_Path: frontLeftLegController
+    m_Weight: 1
+  - m_Path: frontLeftLegController/frontLeftLegIK
+    m_Weight: 1
+  - m_Path: frontRightLegController
+    m_Weight: 1
+  - m_Path: frontRightLegController/frontLeftLegIK 1
+    m_Weight: 1
+  - m_Path: frontRightLegController/frontRightLegIK
+    m_Weight: 1
+  - m_Path: MainController
+    m_Weight: 1
+  - m_Path: MainController/transform3
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backLeftLeg
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backLeftLeg/backLeftLegKnee
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backLeftLeg/backLeftLegKnee/backLeftLegAnkle
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backLeftLeg/backLeftLegKnee/backLeftLegAnkle/backLeftLegToe
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backRightLeg
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backRightLeg/backRightLegKnee
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backRightLeg/backRightLegKnee/backRightLegAnkle
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/backRightLeg/backRightLegKnee/backRightLegAnkle/backRightLegToe
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3/Tail4
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3/Tail4/Tail5
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3/Tail4/Tail5/Tail6
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/Tail/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/Face
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/Face/Nose
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/LeftEar
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/LeftEar/LeftEar1
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/LeftEar/LeftEar1/LeftEar2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/LeftEar/LeftEar1/LeftEar2/LeftEar3
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/LeftEar/LeftEar1/LeftEar2/LeftEar3/LeftEar4
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/RightEar
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/RightEar/RightEar1
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/RightEar/RightEar1/RightEar2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/RightEar/RightEar1/RightEar2/RightEar3
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/FaceController/transform4/Head/RightEar/RightEar1/RightEar2/RightEar3/RightEar4
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontLeftLeg
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontLeftLeg/frontLeftLeg2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontLeftLeg/frontLeftLeg2/frontLeftLegKnee
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontLeftLeg/frontLeftLeg2/frontLeftLegKnee/frontLeftLegAnkle
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontLeftLeg/frontLeftLeg2/frontLeftLegKnee/frontLeftLegAnkle/frontLeftLegToe
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontRightLeg
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontRightLeg/frontRIghtLeg2
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontRightLeg/frontRIghtLeg2/frontRightLegKnee
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontRightLeg/frontRIghtLeg2/frontRightLegKnee/frontRightLegAnkle
+    m_Weight: 1
+  - m_Path: MainController/transform3/Root/upperBodyRoot/upperBody/upperBody2/upperBody3/frontBody/frontRightLeg/frontRIghtLeg2/frontRightLegKnee/frontRightLegAnkle/frontRightLegToe
+    m_Weight: 1
+  - m_Path: nurbsCircle3
+    m_Weight: 0
+  - m_Path: nurbsCircle4
+    m_Weight: 0
+  - m_Path: nurbsCircle5
+    m_Weight: 0
