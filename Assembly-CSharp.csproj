@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DogMovement.cs" />
     <Compile Include="Assets\RopeControllerRealisticNoSpring.cs" />
     <Compile Include="Assets\Scripts\CurvedLinePoint.cs" />
     <Compile Include="Assets\Scripts\CurvedLineRenderer.cs" />

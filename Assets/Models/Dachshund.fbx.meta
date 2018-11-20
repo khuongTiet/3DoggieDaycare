@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: ec194f89d6821461d9988bccb2836337
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backLeftHip
+    100002: backLeftHip1
+    100004: backLeftLeg
+    100006: backLeftLeg1
+    100008: backLeftLegAnkle
+    100010: backLeftLegAnkle1
+    100012: backLeftLegKnee
+    100014: backLeftLegKnee1
+    100016: backLeftLegToe
+    100018: backLeftLegToe1
+    100020: Dachshund
+    100022: //RootNode
+    100024: Face
+    100026: frontBody
+    100028: frontLeftLeg
+    100030: frontLeftLeg2
+    100032: frontLeftLeg3
+    100034: frontLeftLeg4
+    100036: frontLeftLegAnkle
+    100038: frontLeftLegAnkle1
+    100040: frontLeftLegKnee
+    100042: frontLeftLegKnee1
+    100044: frontLeftLegToe
+    100046: frontLeftLegToe1
+    100048: Head
+    100050: joint1
+    100052: joint10
+    100054: joint11
+    100056: joint12
+    100058: joint2
+    100060: joint3
+    100062: joint4
+    100064: joint5
+    100066: joint6
+    100068: joint7
+    100070: joint8
+    100072: joint9
+    100074: MAIN_CTRL
+    100076: NECK_CTRL
+    100078: Nose
+    100080: nurbsCircle4
+    100082: nurbsCircle6
+    100084: nurbsCircle8
+    100086: nurbsCircle9
+    100088: Root
+    100090: Tail
+    100092: Tail2
+    100094: Tail3
+    100096: Tail4
+    100098: Tail5
+    100100: Tail6
+    100102: Tail7
+    100104: Tail8
+    100106: UPPER_BODY_CTRL
+    100108: upperBody
+    100110: upperBody2
+    100112: upperBody3
+    100114: upperBodyRoot
+    400000: backLeftHip
+    400002: backLeftHip1
+    400004: backLeftLeg
+    400006: backLeftLeg1
+    400008: backLeftLegAnkle
+    400010: backLeftLegAnkle1
+    400012: backLeftLegKnee
+    400014: backLeftLegKnee1
+    400016: backLeftLegToe
+    400018: backLeftLegToe1
+    400020: //RootNode
+    400022: Dachshund
+    400024: Face
+    400026: frontBody
+    400028: frontLeftLeg
+    400030: frontLeftLeg2
+    400032: frontLeftLeg3
+    400034: frontLeftLeg4
+    400036: frontLeftLegAnkle
+    400038: frontLeftLegAnkle1
+    400040: frontLeftLegKnee
+    400042: frontLeftLegKnee1
+    400044: frontLeftLegToe
+    400046: frontLeftLegToe1
+    400048: Head
+    400050: joint1
+    400052: joint10
+    400054: joint11
+    400056: joint12
+    400058: joint2
+    400060: joint3
+    400062: joint4
+    400064: joint5
+    400066: joint6
+    400068: joint7
+    400070: joint8
+    400072: joint9
+    400074: MAIN_CTRL
+    400076: NECK_CTRL
+    400078: Nose
+    400080: nurbsCircle4
+    400082: nurbsCircle6
+    400084: nurbsCircle8
+    400086: nurbsCircle9
+    400088: Root
+    400090: Tail
+    400092: Tail2
+    400094: Tail3
+    400096: Tail4
+    400098: Tail5
+    400100: Tail6
+    400102: Tail7
+    400104: Tail8
+    400106: UPPER_BODY_CTRL
+    400108: upperBody
+    400110: upperBody2
+    400112: upperBody3
+    400114: upperBodyRoot
+    2100000: defaultPolygonShader2
+    4300000: Dachshund
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dachshund
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultPolygonShader2
+    second: {fileID: 2100000, guid: 7cc77791e1eb748aea58ce2a1dc071a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.14999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: cc4b474a789a94583912abc011344c19
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLeftAnkle
+    100002: BackLeftFoot
+    100004: BackLeftKnee
+    100006: BackLeftKnee1
+    100008: BackLeftLeg
+    100010: BackRightAnkle
+    100012: BackRightFoot
+    100014: BackRightKnee
+    100016: BackRightKnee1
+    100018: BackRightLeg
+    100020: Beagle
+    100022: //RootNode
+    100024: Chest
+    100026: FrontRightAnkle
+    100028: FrontRightFoot
+    100030: FrontRightKnee
+    100032: FrontRightToe
+    100034: Head
+    100036: joint113
+    100038: joint114
+    100040: joint115
+    100042: joint116
+    100044: joint117
+    100046: joint20
+    100048: joint21
+    100050: joint22
+    100052: joint23
+    100054: joint24
+    100056: joint25
+    100058: joint27
+    100060: joint28
+    100062: joint29
+    100064: joint30
+    100066: joint31
+    100068: joint51
+    100070: joint93
+    100072: LeftClavicle
+    100074: LeftEar
+    100076: LeftFrontAnkle
+    100078: LeftFrontFoot
+    100080: LeftFrontKnee
+    100082: LeftFronttoe
+    100084: LeftHip
+    100086: LeftShoulder
+    100088: Middle
+    100090: Mouth
+    100092: Nose
+    100094: RightClavicle
+    100096: RightEar
+    100098: RightHip
+    100100: RightShoulder
+    100102: Root
+    100104: Tail
+    100106: UpperBody
+    400000: BackLeftAnkle
+    400002: BackLeftFoot
+    400004: BackLeftKnee
+    400006: BackLeftKnee1
+    400008: BackLeftLeg
+    400010: BackRightAnkle
+    400012: BackRightFoot
+    400014: BackRightKnee
+    400016: BackRightKnee1
+    400018: BackRightLeg
+    400020: Beagle
+    400022: //RootNode
+    400024: Chest
+    400026: FrontRightAnkle
+    400028: FrontRightFoot
+    400030: FrontRightKnee
+    400032: FrontRightToe
+    400034: Head
+    400036: joint113
+    400038: joint114
+    400040: joint115
+    400042: joint116
+    400044: joint117
+    400046: joint20
+    400048: joint21
+    400050: joint22
+    400052: joint23
+    400054: joint24
+    400056: joint25
+    400058: joint27
+    400060: joint28
+    400062: joint29
+    400064: joint30
+    400066: joint31
+    400068: joint51
+    400070: joint93
+    400072: LeftClavicle
+    400074: LeftEar
+    400076: LeftFrontAnkle
+    400078: LeftFrontFoot
+    400080: LeftFrontKnee
+    400082: LeftFronttoe
+    400084: LeftHip
+    400086: LeftShoulder
+    400088: Middle
+    400090: Mouth
+    400092: Nose
+    400094: RightClavicle
+    400096: RightEar
+    400098: RightHip
+    400100: RightShoulder
+    400102: Root
+    400104: Tail
+    400106: UpperBody
+    2100000: phong1
+    2100002: defaultPolygonShader
+    4300000: Beagle
+    9500000: //RootNode
+    13700000: Beagle
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultPolygonShader
+    second: {fileID: 2100000, guid: 894cbe9d6e4a24349981fcc6618db5ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 22
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.22
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
