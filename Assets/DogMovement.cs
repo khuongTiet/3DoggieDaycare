@@ -4,16 +4,20 @@ using UnityEngine;
 
 public class DogMovement : MonoBehaviour {
     Transform player;
-    //PlayerHealth playerHealth;
-    //EnemyHealth enemyHealth;
     UnityEngine.AI.NavMeshAgent nav;
+    Animator anim;
 
+    private Quaternion lookRotation;
+    private Vector3 playerDirection;
+
+    public float RotationSpeed = 5;
     public float DetectRange;
     public bool FollowingPlayer = false;
 
     void Start()
     {
         nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
+        anim = GetComponent<Animator>();
         nav.Warp(transform.position);
     }
 
@@ -28,21 +32,28 @@ public class DogMovement : MonoBehaviour {
 
     void Update()
     {
-        //if(enemyHealth.currentHealth > 0 && playerHealth.currentHealth > 0)
-        //{
         if (Vector3.Distance(player.position, transform.position) <= DetectRange) {
             FollowingPlayer = true;
+            if (!anim.GetBool("IsWalking"))
+            {
+                anim.SetBool("IsWalking", true);
+            }
         } else {
             FollowingPlayer = false;
+            if (anim.GetBool("IsWalking"))
+            {
+                anim.SetBool("IsWalking", false);
+            }
         }
 
         if (FollowingPlayer) {
             nav.SetDestination(player.position);
-        }
-        //}
-        //else
-        //{
-        //    nav.enabled = false;
-        //}
+
+            playerDirection = (player.position - transform.position).normalized;
+            lookRotation = Quaternion.LookRotation(playerDirection);
+            transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * RotationSpeed);
+
+
+        } 
     }
 }

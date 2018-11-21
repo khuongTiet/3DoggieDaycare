@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{9D2D11FC-BFC8-8174-FCBF-00865D7B1C6B}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DogMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../SurvivalShooterTutorial/Assets/Scripts/Player/PlayerMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="10" Column="28" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="21" Column="55" />
       <File FileName="Assets/Scripts/ThirdPersonCamera.cs" Line="45" Column="46" />
-      <File FileName="Assets/DogMovement.cs" Line="36" Column="14" />
+      <File FileName="Assets/DogMovement.cs" Line="46" Column="81" />
+      <File FileName="../SurvivalShooterTutorial/Assets/Scripts/Player/PlayerMovement.cs" Line="25" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

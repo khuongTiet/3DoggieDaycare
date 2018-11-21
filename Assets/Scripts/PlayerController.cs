@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour {
     public float moveSpeed;
     public float turnSpeed = 150f;
     private CharacterController characterController;
+    Animator anim;
 
     private Vector3 moveInput;
     private Vector3 moveVelocity;
@@ -19,13 +20,14 @@ public class PlayerController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         characterController = GetComponent<CharacterController>();
+        anim = GetComponent<Animator>();
         mainCamera = FindObjectOfType<Camera>();
 
 	}
 
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
         var horizontal = Input.GetAxisRaw("Horizontal");
         var vertical = Input.GetAxisRaw("Vertical");
 
@@ -44,6 +46,12 @@ public class PlayerController : MonoBehaviour {
 
         //    transform.rotation = Quaternion.Slerp(transform.rotation, newDirection, Time.deltaTime * turnSpeed);
         //} 
+        Animating(horizontal, vertical);
+    }
 
+    void Animating(float h, float v)
+    {
+        bool walking = h != 0f || v != 0f;
+        anim.SetBool("IsWalking", walking);
     }
 }

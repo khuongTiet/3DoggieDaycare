@@ -57,6 +57,7 @@ ModelImporter:
     100102: Root
     100104: Tail
     100106: UpperBody
+    100108: ROOT_CTRL
     400000: BackLeftAnkle
     400002: BackLeftFoot
     400004: BackLeftKnee
@@ -111,9 +112,11 @@ ModelImporter:
     400102: Root
     400104: Tail
     400106: UpperBody
+    400108: ROOT_CTRL
     2100000: phong1
     2100002: defaultPolygonShader
     4300000: Beagle
+    7400000: Take 001
     9500000: //RootNode
     13700000: Beagle
     2186277476908879412: ImportLogs

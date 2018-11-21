@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: c80b89ea77b1949ef8edfc7f6f6d03bc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BACK_LEFT_FOOT_CTRL
+    100002: BACK_RIGHT_FOOT_CTRL
+    100004: BackLeft
+    100006: BackLeftLegIK
+    100008: BackRight
+    100010: BackRightLegIK
+    100012: //RootNode
+    100014: FRONT_LEFT_FOOT_CTRL
+    100016: FRONT_RIGHT_FOOT_CTRL
+    100018: FrontLeft
+    100020: FrontLeftLegIK
+    100022: FrontRight
+    100024: FrontRightLegIK
+    100026: ikHandle1
+    100028: ikHandle2
+    100030: ikHandle3
+    100032: ikHandle4
+    100034: BackLeftAnkle
+    100036: BackLeftFoot
+    100038: BackLeftKnee
+    100040: BackLeftKnee1
+    100042: BackLeftLeg
+    100044: BackRightAnkle
+    100046: BackRightFoot
+    100048: BackRightKnee
+    100050: BackRightKnee1
+    100052: BackRightLeg
+    100054: Beagle
+    100056: Chest
+    100058: FrontRightAnkle
+    100060: FrontRightFoot
+    100062: FrontRightKnee
+    100064: FrontRightToe
+    100066: Head
+    100068: joint113
+    100070: joint114
+    100072: joint115
+    100074: joint116
+    100076: joint117
+    100078: joint20
+    100080: joint21
+    100082: joint22
+    100084: joint23
+    100086: joint24
+    100088: joint25
+    100090: joint27
+    100092: joint28
+    100094: joint29
+    100096: joint30
+    100098: joint31
+    100100: joint51
+    100102: joint93
+    100104: LeftClavicle
+    100106: LeftEar
+    100108: LeftFrontAnkle
+    100110: LeftFrontFoot
+    100112: LeftFrontKnee
+    100114: LeftFronttoe
+    100116: LeftHip
+    100118: LeftShoulder
+    100120: Middle
+    100122: Mouth
+    100124: Nose
+    100126: RightClavicle
+    100128: RightEar
+    100130: RightHip
+    100132: RightShoulder
+    100134: Root
+    100136: ROOT_CTRL
+    100138: Tail
+    100140: UpperBody
+    400000: BACK_LEFT_FOOT_CTRL
+    400002: BACK_RIGHT_FOOT_CTRL
+    400004: BackLeft
+    400006: BackLeftLegIK
+    400008: BackRight
+    400010: BackRightLegIK
+    400012: //RootNode
+    400014: FRONT_LEFT_FOOT_CTRL
+    400016: FRONT_RIGHT_FOOT_CTRL
+    400018: FrontLeft
+    400020: FrontLeftLegIK
+    400022: FrontRight
+    400024: FrontRightLegIK
+    400026: ikHandle1
+    400028: ikHandle2
+    400030: ikHandle3
+    400032: ikHandle4
+    400034: BackLeftAnkle
+    400036: BackLeftFoot
+    400038: BackLeftKnee
+    400040: BackLeftKnee1
+    400042: BackLeftLeg
+    400044: BackRightAnkle
+    400046: BackRightFoot
+    400048: BackRightKnee
+    400050: BackRightKnee1
+    400052: BackRightLeg
+    400054: Beagle
+    400056: Chest
+    400058: FrontRightAnkle
+    400060: FrontRightFoot
+    400062: FrontRightKnee
+    400064: FrontRightToe
+    400066: Head
+    400068: joint113
+    400070: joint114
+    400072: joint115
+    400074: joint116
+    400076: joint117
+    400078: joint20
+    400080: joint21
+    400082: joint22
+    400084: joint23
+    400086: joint24
+    400088: joint25
+    400090: joint27
+    400092: joint28
+    400094: joint29
+    400096: joint30
+    400098: joint31
+    400100: joint51
+    400102: joint93
+    400104: LeftClavicle
+    400106: LeftEar
+    400108: LeftFrontAnkle
+    400110: LeftFrontFoot
+    400112: LeftFrontKnee
+    400114: LeftFronttoe
+    400116: LeftHip
+    400118: LeftShoulder
+    400120: Middle
+    400122: Mouth
+    400124: Nose
+    400126: RightClavicle
+    400128: RightEar
+    400130: RightHip
+    400132: RightShoulder
+    400134: Root
+    400136: ROOT_CTRL
+    400138: Tail
+    400140: UpperBody
+    2100000: defaultPolygonShader
+    4300000: Beagle
+    7400000: Idle
+    7400002: Walking
+    9500000: //RootNode
+    13700000: Beagle
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultPolygonShader
+    second: {fileID: 2100000, guid: 894cbe9d6e4a24349981fcc6618db5ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 22
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.22
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
